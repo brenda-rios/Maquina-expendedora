@@ -1,4 +1,4 @@
-# Biblioteca en Solana
+# Maquina expendedora en Solana
 
 ![banner](./images/banner-biblioteca.jpg)
 
