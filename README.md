@@ -20,22 +20,26 @@ Crea la cuenta de la máquina expendedora en la blockchain.
 Función: inicializar_maquina
 Parámetros: nombre_maquina (String).
 
+
 **2. Agregar Productos**
 
 Añade snacks al vector de inventario.
 Función: agregar_snack
 Parámetros: nombre (String), precio (u64), stock (u8).
 
+
 **3. Ver Inventario**
 
 Consulta los productos registrados. Nota: Los resultados se visualizan en los Program Logs.
 Función: ver_snacks
+
 
 **4. Vender Producto**
 
 Simula una compra reduciendo el stock en una unidad.
 Función: vender_snack
 Parámetros: nombre (String).
+
 
 **5. Eliminar Producto**
 
